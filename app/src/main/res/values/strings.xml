@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplikasi Menghitung Diskon</string>
+    <string name="desc_logo">Logo Aplikasi</string>
+    <string name="tv_copyright">&#169; 2021, Fityan</string>
+    <string name="btn_start">Mulai</string>
+    <string name="label_price">Harga (Rp)</string>
+    <string name="label_discount">Diskon (%)</string>
+    <string name="btn_count">Hitung Diskon</string>
+    <string name="tv_discounts">Potongan Harga :</string>
+    <string name="tv_result_after_discount">Rp0</string>
+    <string name="tv_after_discount">Harga Setelah Diskon :</string>
+    <string name="btn_exit">Keluar</string>
+</resources>
